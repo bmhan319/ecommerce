@@ -75,10 +75,10 @@ input[type="email"] {
 
 input[type="submit"] {
   margin: auto 0;
-  padding: 0rem;
+  padding: .2rem;
   background-color: #4B88DC;
-  border: 1px solid #4B88DC;
-  border-radius: 5px;
+  border: 1px solid #23508F;
+  border-radius: 12px;
   font-size: .75rem;
   color: white;
   height:1.75rem;
@@ -155,17 +155,15 @@ input[type="submit"]:hover {
 }
 
 .cards img {
+  margin: 0 auto;
   width: 96%;
   padding: 2%;
-}
-
-.cards hr {
-  width:90%;
-  color: lightgray;
+  border-bottom: 1px solid lightgray;
 }
 
 button {
   border-radius: 12px;
+  border-color: #23508F;
   margin: .5rem 0rem 0rem 1rem;
   height: 2rem;
   width: 6rem;
