@@ -75,7 +75,7 @@ input[type="email"] {
 
 input[type="submit"] {
   margin: auto 0;
-  padding: rem;
+  padding: 0rem;
   background-color: #4B88DC;
   border: 1px solid #4B88DC;
   border-radius: 5px;
