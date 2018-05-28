@@ -210,8 +210,12 @@ footer div li h3 a{
   }
   
   input[type="email"] {
-  width: 8.75rem;
+  width: 7.75rem;
   height:1.15rem;
+  }
+  
+  input[type="submit"] {
+  font-size: .5rem;
   }
   .row4 {
     flex-flow: column wrap;
